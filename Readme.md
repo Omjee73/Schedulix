@@ -90,6 +90,15 @@ A sophisticated web-based platform designed to revolutionize the way medical app
 - Full system control and configuration capabilities.
 - User management and system monitoring.
 - Access to all features and functionalities.
+- Admin ID & PASSWORD
+1. First Admin Account:
+   Email: admin1@medical.com
+   Password: admin123
+   Name: Admin om
+2. Second Admin Account:
+   Email: admin2@medical.com
+   Password: admin456
+   Name: Admin Two
 
 ### Patient Access
 - Self-registration and profile management.
@@ -160,12 +169,6 @@ A sophisticated web-based platform designed to revolutionize the way medical app
 - Tests must pass.
 - Documentation must be updated.
 - Code style must be maintained.
-
-## 📝 License
-[Add your specific license information here]
-
-## 📞 Support
-[Add your contact information and support channels]
 
 ## 🔄 Future Enhancements
 
