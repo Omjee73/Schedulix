@@ -1,4 +1,4 @@
-# Medical Appointment Management System 🏥
+# Schedulix - Medical Appointment Management System 🏥
 
 ## 📋 Project Overview
 A sophisticated web-based platform designed to revolutionize the way medical appointments are managed. This system bridges the gap between patients, doctors, and administrators by providing a seamless, efficient, and user-friendly interface for scheduling and managing medical appointments. Built with modern web technologies and following best practices in software development, it offers a robust solution for healthcare facilities of any size.
